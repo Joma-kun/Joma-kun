@@ -28,4 +28,4 @@
   Others
 </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,firebase,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,firebase,gcp,github,postman,pr)](https://skillicons.dev)
