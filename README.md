@@ -15,7 +15,7 @@
   Frontend
 </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react)](https://skillicons.dev)  
 
 
 <h4>
